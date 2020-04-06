@@ -35,9 +35,21 @@ _Clone of the Airbnb website with a camper van theme_
 
 ![Image](https://raw.githubusercontent.com/alissacrane123/alissa.github.io/master/images/projectmanager.png)
 
-Description
+
+
+</br>
 
 **VanBnb**   
 _Task Management website using React and Redux_
 
 ![Image](https://github.com/alissacrane123/alissa.github.io/blob/master/images/vanbnb.png?raw=true)
+
+</br>
+</br>
+
+
+# Connect With Me
+
+[My LinkedIn](https://www.linkedin.com/in/alissacrane/)
+
+[My Github](https://github.com/alissacrane123)
