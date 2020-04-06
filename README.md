@@ -53,6 +53,6 @@ _Task Management website using React and Redux_
 
 ## Connect With Me
 
-[Link](https://www.linkedin.com/in/alissacrane/)
+[My LinkedIn](https://www.linkedin.com/in/alissacrane/)
 
-[Link](https://github.com/alissacrane123)
+[My Github](https://github.com/alissacrane123)
