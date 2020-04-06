@@ -5,6 +5,9 @@ This is where an introduction would go. Everyone loves talking about themselves 
 Blah blah blah - pretend I am saying something insightful about myself right here.
 
 
+
+
+
 ## Experience
 
 Talk a little bit about your past experiences! Maybe treat this section like a resume.
@@ -14,12 +17,19 @@ _App Academy_
 - Facilitate instruction of material covering full stack web development
 
 
+
+
+
+
 ## Education
 
 ***UC Berkeley***   
 _August 2013 - December 2016_
 
  ...
+
+
+
 
 
 ## Projects
@@ -35,3 +45,14 @@ Description
 _Task Management website using React and Redux_
 
 ![Image](https://github.com/alissacrane123/alissa.github.io/blob/master/images/vanbnb.png?raw=true)
+
+
+
+
+
+
+## Connect With Me
+
+[Link](https://www.linkedin.com/in/alissacrane/)
+
+[Link](https://github.com/alissacrane123)
