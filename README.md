@@ -9,14 +9,14 @@ Blah blah blah - pretend I am saying something insightful about myself right her
 
 Talk a little bit about your past experiences! Maybe treat this section like a resume.
 
-# Technical Instructor / Software Engineer
+### Technical Instructor / Software Engineer
 _App Academy_
 - Facilitate instruction of material covering full stack web development
 
 
 ## Education
 
-# UC Berkeley
+### UC Berkeley
 _August 2013 - December 2016_
 
  ...
@@ -24,7 +24,7 @@ _August 2013 - December 2016_
 
 ## Projects
 
-# VanBnb
+### VanBnb
 _Clone of the Airbnb website with a camper van theme_
 
 
